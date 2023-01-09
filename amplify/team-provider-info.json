@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpsv19-dev-212534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv19-dev-212534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv19-dev-212534-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-gpsv19-dev-212534-deployment",
+      "UnauthRoleName": "amplify-gpsv19-dev-212534-unauthRole",
+      "StackName": "amplify-gpsv19-dev-212534",
+      "StackId": "arn:aws:cloudformation:us-east-2:670391868519:stack/amplify-gpsv19-dev-212534/e76b6310-8fc4-11ed-a9d2-069e2a0fa4c6",
+      "AmplifyAppId": "d33o5sr16eli4o"
+    },
+    "categories": {
+      "auth": {
+        "gpsv198d09ef01": {}
+      }
+    }
+  }
+}
